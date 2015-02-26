@@ -1,13 +1,3 @@
-# Homework
-==============================
-
-## Overview
-Below is a small HTML/CSS/JS exercise that involves building out a part of a product page which involves a single product and it's variations.
-
-Use SASS for css, but no other frameworks or libraries, no canvas. No JS plugins.
-
-You can use the latest and greatest HTML5 and CSS3 features to build this out.
-
 ## Exercise
 In index.html, rebuild the designs in the designs folder in Semantic HTML, CSS, and JS. The designs represent layouts in a smaller screen and a larger screen. It is not 2 pages.
 
@@ -22,5 +12,3 @@ In index.html, rebuild the designs in the designs folder in Semantic HTML, CSS, 
 - The minimum width of the screen is 320px (640 @2x). The horizontal breakpoint is at 980px (1960px @2x). Built with a mobile first approach.
 
 Pay attention details and the layout of the page. Keep it DRY.
-
-Good luck!
